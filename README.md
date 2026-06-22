@@ -39,11 +39,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
 
 ---
 
