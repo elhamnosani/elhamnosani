@@ -57,7 +57,7 @@ Personal portfolio showcasing my projects and learning journey.
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/elham-nosani-06468928b/" target="_blank">
+<a href="https://www.linkedin.com/in/elham-nosani/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
